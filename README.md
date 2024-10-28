@@ -1,0 +1,2 @@
+# CopadoTest
+Testing Copado functionality
